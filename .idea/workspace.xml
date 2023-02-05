@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e7998a8-d3e5-4dd7-a5bf-5d7dd9f41e0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +21,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LIdkFCR2SoDRoAVsubIU0MJxej" />
   <component name="ProjectViewState">
@@ -51,7 +57,7 @@
       <updated>1675562671511</updated>
       <workItem from="1675562672688" duration="17000" />
       <workItem from="1675562730368" duration="23000" />
-      <workItem from="1675562863512" duration="342000" />
+      <workItem from="1675562863512" duration="1174000" />
     </task>
     <servers />
   </component>
