@@ -10,6 +10,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="2LIdkFCR2SoDRoAVsubIU0MJxej" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
